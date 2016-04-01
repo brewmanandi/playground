@@ -3,3 +3,4 @@ typings
 public/lib
 *.js
 *.log
+config.bat
